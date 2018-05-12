@@ -1,5 +1,8 @@
 _repo: Select-Speeches-of-Daniel-Webster-1817-1845_7600
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Webster, Daniel
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '33280'
     url: http://www.gutenberg.org/2009/agents/33280
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7600#Select-Speeches-of-Daniel-Webster-1817-1845
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
